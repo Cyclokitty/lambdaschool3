@@ -3,16 +3,21 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
+
 	* Objects
+		* has key/value pairs
 	* Properties
+		* is a variable attached to an object
 	* Methods
+		* it's an object property containing a function
 	* for in loop
+		* just like for loops for arrays, objects use a for in loop
 	* dot notation vs bracket notation
+		* best to use dot notation (obj.name) to reach values but if your key is a number or you are using a variable, use bracket notation obj[5]
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
-		
+
 	* git status
 	* git add --all
 	* git status
